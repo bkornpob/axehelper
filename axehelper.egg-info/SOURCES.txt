@@ -5,6 +5,7 @@ axehelper/axeapcorr.py
 axehelper/grismapcorr.py
 axehelper/make_sip.py
 axehelper/order_flist.py
+axehelper/read_postaxecombine.py
 axehelper/sextractorhelper.py
 axehelper.egg-info/PKG-INFO
 axehelper.egg-info/SOURCES.txt
