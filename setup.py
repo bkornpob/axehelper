@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="axehelper",
-    version="1.0.0",
+    version="1.0.1",
     author="Kornpob Bhirombhakdi",
     author_email="kbhirombhakdi@stsci.edu",
     long_description=open("README.md").read(),
