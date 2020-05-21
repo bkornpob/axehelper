@@ -6,6 +6,7 @@ axehelper/axehelper_bkg.py
 axehelper/axehelper_computesip.py
 axehelper/axehelper_computetracenwavelength.py
 axehelper/axehelper_confreader.py
+axehelper/axehelper_flatfield.py
 axehelper/axehelper_poly2d.py
 axehelper/grismapcorr.py
 axehelper/make_sip.py
