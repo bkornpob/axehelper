@@ -96,6 +96,6 @@ class AXEhelper_ConfReader:
                 order += 1
                 px1 = order
                 px2 = 0
-        out['NORDER'] = order
+        out['NORDER'] = order - 1
         return out
     
