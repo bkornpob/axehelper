@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="axehelper",
-    version="2.5.1",
+    version="2.6.1",
     author="Kornpob Bhirombhakdi",
     author_email="kbhirombhakdi@stsci.edu",
     long_description=open("README.md").read(),
@@ -14,5 +14,5 @@ setuptools.setup(
         ,"License :: OSI Approved :: MIT License"
         ,"Operating System :: OS Independent"
     ],
-    python_requires='>=3.'
+    python_requires='>=2.'
 )
